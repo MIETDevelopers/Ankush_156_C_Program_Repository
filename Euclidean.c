@@ -2,7 +2,7 @@
 
 /* Name -  Ankush kumar
    class - cse_A2_156
-   */
+*/
 
 #include<stdio.h>	//PREPROSESSIVE DIRECTIVE TO INCLUDE STANDARD INPUT OUTPUT HEADER FILE
 #include<math.h>	//PREPROSESSIVE DIRECTIVE TO INCLUDE MATH LIBRARY HEADER FILE
