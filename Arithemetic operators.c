@@ -1,3 +1,10 @@
+// Program to demonstrate the function of Arithemetic operators //
+
+/* Name -  Ankush kumar
+   class - cse_A2_156
+   */
+
+
 #include <stdio.h>
  
 int main()
