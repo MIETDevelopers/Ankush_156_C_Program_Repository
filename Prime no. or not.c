@@ -1,4 +1,4 @@
-// Program to print maximum of n no. //
+// Program to print whether a no. is prime or not //
 
 /* Name - Ankush Kumar
    Class - CSE_156_A2
