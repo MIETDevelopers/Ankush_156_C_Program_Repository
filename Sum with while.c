@@ -4,7 +4,7 @@
    Class - CSE_156_A2
 */
 #include <stdio.h> //Pre-Process directive to include standard input output header file
-int main() //main function body stat=rting
+int main() //main function body starting
 {
    int n, t, sum = 0, remainder; //variable declaration of integer data type
 
