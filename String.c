@@ -1,0 +1,23 @@
+// Program to perform matrix multiplication //
+
+/* Name -  Ankush kumar
+   class - cse_A2_156
+   */
+
+#include <stdio.h> //Pre-Process directive to include standard input output header file
+#include <string.h> //Pre-Process directive to include string input output header file
+int main()
+{
+    /* String Declaration*/
+    char nickname[20];
+
+    /* Console display using puts */
+    puts("Enter your Nick name:");
+
+    /*Input using gets*/
+    gets(nickname);
+
+    puts(nickname);
+
+    return 0;
+}
