@@ -1,4 +1,4 @@
-// Program to perform matrix multiplication //
+// Program to perform the operation of various string operations //
 
 /* Name -  Ankush kumar
    class - cse_A2_156
