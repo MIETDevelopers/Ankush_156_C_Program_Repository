@@ -6,7 +6,7 @@
 
 #include <stdio.h> //Pre-Process directive to include input output header file.
  
-void swap(int, int);
+void swap(int a, int b);
  
 int main()
 {
