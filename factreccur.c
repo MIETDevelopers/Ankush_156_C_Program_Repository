@@ -4,19 +4,18 @@
    class - cse_A2_156
    */
 
-#include<stdio.h>
-long int multiplyNumbers(int n);
-int main() {
-    int n;
-    printf("Enter a positive integer: ");
-    scanf("%d",&n);
-    printf("Factorial of %d = %ld", n, multiplyNumbers(n));
-    return 0;
+#include<stdio.h>  //PREPROSESSIVE DIRECTIVE TO INCLUDE STANDARD INPUT OUTPUT HEADER FILE
+void output(int number);	//FUNCTION DECLARATION
+int main(){					//FUNCTION INITIALIZATION
+	int number;
+	scanf("%d",&number);
+	output(number);
+	return 0;		//RETURN STATEMENT
 }
-
-long int multiplyNumbers(int n) {
-    if (n>=1)
-        return n*multiplyNumbers(n-1);
-    else
-        return 1;
+void output(int number){	//FUNCTION CALLING
+	int output=1;
+	for(int i=1;i<=number;i++){		//FOR LOOP(INITIALIZATION;CONDITION;INCREMENT/DECREMENT)
+		output=output*i;	//LOGIC
+	}
+	printf("Output is: %d", output);		//PRINT OUTPUT OF THE PROGRAM
 }
