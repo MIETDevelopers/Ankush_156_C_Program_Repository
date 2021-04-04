@@ -1,4 +1,4 @@
-// Program to demonstrate the function of Arithemetic operators //
+// Program to demonstrate the function of Arithmetic operators //
 
 /* Name -  Ankush kumar
    class - cse_A2_156
