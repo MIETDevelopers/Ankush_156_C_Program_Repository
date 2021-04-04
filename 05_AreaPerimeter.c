@@ -1,4 +1,4 @@
-// Program to find area and perimeter of circle, rectangle, square //
+/* Program to find area and perimeter of circle, rectangle, square */
 
 /* Name -  Ankush kumar
    class - cse_A2_156
